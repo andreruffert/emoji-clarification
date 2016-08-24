@@ -37,7 +37,7 @@
 }
 
 .emoji-clarification {
-  @extend emoji-clarification;
+  @extend %emoji-clarification;
 
   border-bottom: 1px dotted;
   font-weight: bold;
