@@ -1,0 +1,45 @@
+@keyframes emoji-clarification {
+  0% {
+    transform: scale(1);
+    content: attr(data-start);
+  }
+  50% {
+    transform: scale(4);
+    content: attr(data-end);
+  }
+  100% {
+    transform: scale(.5);
+    content: attr(data-start);
+  }
+}
+
+%emoji-clarification {
+  position: relative;
+
+  &:hover:after {
+    animation: emoji-clarification 1s ease infinite;
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    font-size: 3rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    will-change: transform;
+  }
+}
+
+.emoji-clarification {
+  @extend emoji-clarification;
+
+  border-bottom: 1px dotted;
+  font-weight: bold;
+  text-transform: uppercase;
+}
