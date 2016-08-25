@@ -1,6 +1,6 @@
 # Emoji clarification
 
-[![npm version](https://img.shields.io/npm/v/emoji-suggestions.svg)](https://www.npmjs.com/package/emoji-suggestions)
+[![npm version](https://img.shields.io/npm/v/emoji-clarification.svg)](https://www.npmjs.com/package/emoji-clarification)
 
 > Clarify your words with emojis. Check out a [live demo on CodePen](http://codepen.io/andreruffert/pen/EyBKkv).
 
