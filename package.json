@@ -1,6 +1,6 @@
 {
   "name": "emoji-clarification",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clarify your words with emojis",
   "main": "emoji-clarification.scss",
   "scripts": {
