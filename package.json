@@ -1,0 +1,24 @@
+{
+  "name": "emoji-clarification",
+  "version": "1.0.0",
+  "description": "Clarify your words with emojis",
+  "main": "emoji-clarification.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreruffert/emoji-clarification.git"
+  },
+  "keywords": [
+    "emoji",
+    "clarify",
+    "css"
+  ],
+  "author": "André Ruffert (andreruffert.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreruffert/emoji-clarification/issues"
+  },
+  "homepage": "https://github.com/andreruffert/emoji-clarification#readme"
+}
