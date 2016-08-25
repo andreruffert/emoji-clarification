@@ -1,10 +1,16 @@
 # Emoji clarification
 
-> A little fun project ;)
+[![npm version](https://img.shields.io/npm/v/emoji-suggestions.svg)](https://www.npmjs.com/package/emoji-suggestions)
 
-Check out a [live demo on CodePen](http://codepen.io/andreruffert/pen/EyBKkv).
+> Clarify your words with emojis. Check out a [live demo on CodePen](http://codepen.io/andreruffert/pen/EyBKkv).
 
 ![](showcase.gif)
+
+## Install
+
+```console
+$ npm i emoji-clarification -S
+```
 
 ## Usage
 
