@@ -14,7 +14,7 @@ $ npm i emoji-clarification -S
 
 ## Usage
 
-```css
+```scss
 @import "emoji-clarification";
 
 .emoji-clarification {
