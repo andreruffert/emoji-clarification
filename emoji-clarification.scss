@@ -35,11 +35,3 @@
     will-change: transform;
   }
 }
-
-.emoji-clarification {
-  @extend %emoji-clarification;
-
-  border-bottom: 1px dotted;
-  font-weight: bold;
-  text-transform: uppercase;
-}
